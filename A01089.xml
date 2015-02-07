@@ -1195,7 +1195,10 @@ from T to 10. So also the threed laid upon the fifth
 houre at e, or a, cutteth TV in 5; take off T5, and
 prick it downe here from V to 5, and from T to 11.
 Thus are all the Houres pricked downe.</p>
-               <figure/>
+               <p>
+                  <pb n="19" facs="tcp:2628:17"/>
+                  <figure/>
+               </p>
                <figure>
                   <p>An horizontull Diall to 52 gr: 30 m: lat:</p>
                </figure>
@@ -1615,10 +1618,22 @@ the like may be done in all others.</p>
             <div n="13" type="chapter">
                <head>CHAP. XIII.</head>
                <head type="sub">The making and placing of Polar Plaines.</head>
-               <figure>
-                  <p>Place this Diagram betweene folio 32. and 33.</p>
-                  <p>The horizontall line of the Plaine.</p>
-               </figure>
+               <p>
+                  <seg rend="decorInit">P</seg>Olar Plaines are those North incliners,
+whether direct or declining, that lye in
+the Pole, and so have no Elevation of
+the Pole above them, as the direct North
+<pb facs="tcp:2628:24"/>
+                  <figure>
+                     <p>Place this Diagram betweene folio 32. and 33.</p>
+                     <p>The horizontall line of the Plaine.</p>
+                  </figure>
+                  <pb facs="tcp:2628:25"/>
+                  <pb n="33" facs="tcp:2628:25"/>
+and South polar, the East and West upright
+Plaines, and infinite others declining betwixt both.
+You may know them by the 8 and 9 Chapters, as
+is there intimated.</p>
                <p>These Plaines may have Dialls described upon
 them by this Quadrant, but the better way is the
 common way, to protract them by an equinocti<g ref="char:EOLhyphen"/>all
